@@ -12,9 +12,9 @@ This project is a web-based implementation of the classic Simon game using HTML,
 
 To play the game:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone :  https://github.com/Anakvyas/Simon-Game-Project-.git`
 2. Open `index.html` in your web browser.
-3. Press `ENTER` Simon Game
+3. Press `ENTER` Simon Game.
 
 This project is a web-based implementation of the classic Simon game using HTML, CSS, and JavaScript.
 
